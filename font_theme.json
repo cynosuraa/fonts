@@ -1,7 +1,10 @@
 {
   "name": "Unbounded Druk Theme",
+  "description": "Custom font theme",
   "author": "cynosuraa",
+  "version": "1.0.0",
   "spec": 2,
+  "main": "https://raw.githubusercontent.com/backroomsa3-a11y/Mythemesssss/refs/heads/main/Vergil.json",
   "fonts": {
     "ggsans-Normal": "https://github.com/cynosuraa/fonts/raw/refs/heads/main/merged.ttf",
     "ggsans-Medium": "https://github.com/cynosuraa/fonts/raw/refs/heads/main/merged.ttf",
